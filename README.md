@@ -88,5 +88,16 @@ PUT /reviews/{review_id}/ - Update a specific review
 DELETE /reviews/{review_id}/ - Delete a specific review
 Docker: Containerization tool for consistent development and deployment environments.
 
+# Feature Breakdown 
+1.User Authentication
+Features: Register new users, authenticate, and manage user profiles.
+2.Property Management
+Features: Create, update, retrieve, and delete property listings.
+3.Booking System
+Features: Make, update, and manage bookings, including check-in and check-out details.
+4.Payment Processing
+Features: Handle payment transactions related to bookings.
+5.Review System
+Features: Post and manage reviews for properties.
 # CI/CD Pipelines
 Automated pipelines for testing and deploying code changes.
